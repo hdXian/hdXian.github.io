@@ -68,6 +68,7 @@ $sidebar-display: 'sidebar-display'; /* the attribute for sidebar display */
 
     img {
       transition: transform 0.5s;
+      justify-content: center;
 
       &:hover {
         transform: scale(1.2);
