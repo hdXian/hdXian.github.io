@@ -70,6 +70,9 @@ $sidebar-display: 'sidebar-display'; /* the attribute for sidebar display */
       transition: transform 0.5s;
       justify-content: center;
       align-items: center;
+      object-fit: cover;
+      height: 100%;
+      width: auto;
 
       &:hover {
         transform: scale(1.2);
