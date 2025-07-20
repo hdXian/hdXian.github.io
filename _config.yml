@@ -105,6 +105,7 @@ avatar: /assets/img/avatar_img.jpg
 social_preview_image: # string, local or CORS resources
 
 # boolean type, the global switch for TOC in posts.
+# 각 포스트 좌측에 목차를 표시
 toc: true
 
 comments:
