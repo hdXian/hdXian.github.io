@@ -16,7 +16,7 @@ timezone: Asia/Seoul
 
 title: Hwang Jehyun (hdXian) # the main title
 
-tagline: 나의 언어로 기록하기 # it will display as the subtitle
+tagline: 시엔의 엔지니어링 블로그 # it will display as the subtitle
 
 description: >- # seo 메타 설정 used by seo meta and the atom feed
   hdXian의 엔지니어링 블로그
